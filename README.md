@@ -13,3 +13,8 @@ git clone https://github.com/Mali03/Arduino-uno-projects.git
 2. Navigate to the project directory you're interested in.
 3. Open the `.ino` file in the Arduino IDE.
 4. Connect your Arduino Uno to your computer, select the correct board and port, and upload the code.
+
+## Requirements
+**Hardware**: Arduino Uno, LEDs, resistors, jumper wires, and a breadboard (varies by project).
+
+**Software**: Arduino IDE.
