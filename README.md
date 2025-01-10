@@ -18,3 +18,10 @@ git clone https://github.com/Mali03/Arduino-uno-projects.git
 **Hardware**: Arduino Uno, LEDs, resistors, jumper wires, and a breadboard (varies by project).
 
 **Software**: Arduino IDE.
+
+## Need Help
+If you need any help contact me on [e-mail](mailto:mehmetaligunalay@gmail.com).
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
