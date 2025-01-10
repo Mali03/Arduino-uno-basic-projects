@@ -17,7 +17,7 @@ git clone https://github.com/Mali03/Arduino-uno-projects.git
 ## Requirements
 **Hardware**: Arduino Uno, LEDs, resistors, jumper wires, and a breadboard (varies by project).
 
-**Software**: Arduino IDE.
+**Software**: Arduino IDE (2.3.4).
 
 ## Need Help
 If you need any help contact me on [e-mail](mailto:mehmetaligunalay@gmail.com).
