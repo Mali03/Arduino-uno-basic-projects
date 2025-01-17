@@ -1,6 +1,6 @@
 # Arduino Uno Projects
 
-Welcome to my collection of Arduino Uno projects! This repository contains various projects created using the Arduino Uno, demonstrating different functionalities and ideas. Each project includes the necessary code and detailed explanations to help you recreate and learn.
+Welcome to my collection of Arduino Uno projects! This repository contains various projects created using the Arduino Uno, demonstrating different functionalities and ideas. Each project includes the necessary code and detailed explanations to help you recreate and learn. And also I used the [tinkercad website](https://www.tinkercad.com/) to show cable notations.
 
 ## Project List
 1. Blink: A simple project where an LED turns on and off repeatedly (every 1 sec.).
