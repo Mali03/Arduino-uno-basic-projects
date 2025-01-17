@@ -5,7 +5,8 @@ Welcome to my collection of Arduino Uno projects! This repository contains vario
 ## Project List
 1. Blink: A simple project where an LED turns on and off repeatedly (every 1 sec.).
 2. Blink Button v1: Push the button to light up led and then push it again to turn off.
-3. Blink Button v1: As long as you push the button, the LED will light up.
+3. Blink Button v2: As long as you push the button, the LED will light up.
+4. Potantiometer: You can manually change the brightness of the LED by controlling the voltage.
 
 ## How to Use
 1. Clone this repository to your local machine:
