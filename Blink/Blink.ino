@@ -1,13 +1,12 @@
-// 1 saniyede (1000 milisaniye) bir mavi led yanıp söner
-#define maviLed 8 // 8. çıkış
+#define led 8 // 8. output
 
 void setup() {
-  pinMode(maviLed, OUTPUT); // 8. pin
+  pinMode(led, OUTPUT); // 8. pin
 }
 
 void loop() {
-  digitalWrite(maviLed, HIGH); // voltajını yükseltir
-  delay(1000); // 1 saniye bekler
-  digitalWrite(maviLed, LOW); // voltajını düşürür
-  delay(1000); // 1 saniye bekler
+  digitalWrite(led, HIGH); // increases the voltage
+  delay(1000); // waits 1 second
+  digitalWrite(led, LOW); // decreases the voltage
+  delay(1000); // waits 1 second
 }
