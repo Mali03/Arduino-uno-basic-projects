@@ -45,11 +45,3 @@ int measureDistance(int maxRange, int minRange) {
   
   return distance;
 }
-
-int tune(int dly) {
-  tone(buzzerPin, 440);
-  delay(dly);
-  noTone(buzzerPin);
-  delay(dly);
-  
-}
