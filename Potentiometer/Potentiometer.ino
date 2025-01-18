@@ -8,7 +8,7 @@ void setup() {
 void loop() {
   int value = analogRead(pot); // 0-1023
 
-  value = value / 4; // 0-255 (you can also use value = map(deger,0,1023,0,255))
+  value = value / 4; // 0-255 (you can also use value = map(value,0,1023,0,255))
 
   analogWrite(led,value);
 }
