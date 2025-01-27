@@ -13,11 +13,9 @@ void loop() {
   delay(100);
   */
 
-  // for passive buzzer
-  /*
+  // for passive buzzer -> 
   tone(buzzer,1000);
   delay(100);
   noTone(buzzer);
   delay(100);
-  */
 }
