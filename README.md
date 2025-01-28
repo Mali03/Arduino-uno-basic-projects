@@ -1,13 +1,11 @@
 # Arduino Uno Projects
 
-Welcome to my collection of Arduino Uno projects! This repository contains various projects created using the Arduino Uno, demonstrating different functionalities and ideas. Each project includes the necessary code and detailed explanations to help you recreate and learn. And also I used the [tinkercad website](https://www.tinkercad.com/) to show cable notations.
+Welcome to my collection of Arduino Uno projects! This repository contains various projects created using the Arduino Uno, demonstrating different functionalities and ideas. Each project includes the code and example videos and photos to help you recreate and learn. And also I used the [tinkercad website](https://www.tinkercad.com/) to show cable notations.
 
-## Project List
-1. Blink: A simple project where an LED turns on and off repeatedly (every 1 sec.).
-2. Blink Button v1: Push the button to light up led and then push it again to turn off.
-3. Blink Button v2: As long as you push the button, the LED will light up.
-4. Potantiometer: You can manually change the brightness of the LED by controlling the voltage.
-...
+## Featured Projects
+1. Battery Level Checker: It is necessary to check the battery level. This project helps you monitor it and displays the level on a 4-digit 7-segment display.
+2. Car Park Sensor: A basic car parking sensor with buzzer. The buzzer emits beeping as object's distance to the HC-SR04 ultrasonic sensor. (Also upgraded with leds in CarParkSensorWithLeds)
+3. Vibration Sensor With Led: The sensor senses the vibration and light up the led. Don't need to write a code give the sensor 5v.
 
 ## How to Use
 1. Clone this repository to your local machine:
