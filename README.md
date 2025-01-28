@@ -5,7 +5,8 @@ Welcome to my collection of Arduino Uno projects! This repository contains vario
 ## Featured Projects
 1. Battery Level Checker: It is necessary to check the battery level. This project helps you monitor it and displays the level on a 4-digit 7-segment display.
 2. Car Park Sensor: A basic car parking sensor with buzzer. The buzzer emits beeping as object's distance to the HC-SR04 ultrasonic sensor. (Also upgraded with leds in CarParkSensorWithLeds)
-3. Vibration Sensor With Led: The sensor senses the vibration and light up the led. Don't need to write a code give the sensor 5v.
+3. Vibration Sensor with Led: The sensor senses the vibration and light up the led. Don't need to write a code give the sensor 5v.
+4. 8x8 Matrix Heard: Displays a heart pattern on an 8x8 LED matrix. Perfect for surprising your loved one.
 
 ## How to Use
 1. Clone this repository to your local machine:
