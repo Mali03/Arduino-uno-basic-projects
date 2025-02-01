@@ -4,11 +4,10 @@ Welcome to my collection of Arduino Uno projects! This repository contains vario
 
 ## Featured Projects
 1. Battery Level Checker: It is necessary to check the battery level. This project helps you monitor it and displays the level on a 4-digit 7-segment display.
-2. Simon Says Game with Leds: It is a basic simon says game with buttons, leds and a buzzer. The game lights up leds one by one randomly, and you need to remember the sequence and press them in the correct order.
-3. Car Park Sensor: A basic car parking sensor with buzzer. The buzzer emits beeping as object's distance to the HC-SR04 ultrasonic sensor. (Also upgraded with leds in CarParkSensorWithLeds)
-4. Vibration Sensor with Led: The sensor senses the vibration and light up the led. Don't need to write a code give the sensor 5v.
-5. 8x8 Matrix Heard: Displays a heart pattern on an 8x8 LED matrix. Perfect for surprising your loved one.
-6. Automatic Corridor Lighting: The LED lights up when it detects movement between 30 and 65 cm. It stays on for 5 seconds and then turns off.
+2. Car Park Sensor: A basic car parking sensor with buzzer. The buzzer emits beeping as object's distance to the HC-SR04 ultrasonic sensor. (Also upgraded with leds in CarParkSensorWithLeds)
+3. Vibration Sensor with Led: The sensor senses the vibration and light up the led. Don't need to write a code give the sensor 5v.
+4. 8x8 Matrix Heard: Displays a heart pattern on an 8x8 LED matrix. Perfect for surprising your loved one.
+5. Automatic Corridor Lighting: The LED lights up when it detects movement between 30 and 65 cm. It stays on for 5 seconds and then turns off.
 
 ## How to Use
 1. Clone this repository to your local machine:
