@@ -12,14 +12,16 @@ Welcome to my collection of Arduino Uno projects! This repository contains vario
 7. **Temperature Sensor**: Measures ambient temperature using a sensor. If the temperature reaches 30°C, a buzzer beeps, and an LED blinks as a warning.
 8. **Stepper Motor with Button**: A stepper motor controlled by a button, available in two variations: Single Press and Hold to Rotate
 
-## How to Use
+## Usage the Projects
 1. Clone this repository to your local machine:
 ```bash
 git clone https://github.com/Mali03/Arduino-uno-projects.git
 ```
 2. Navigate to the project directory you're interested in.
-3. Open the `.ino` file in the Arduino IDE.
-4. Connect your Arduino Uno to your computer, select the correct board and port, and upload the code.
+3. Open the Cable Notation file.
+4. Build the given schematic on a breadboard using your own components.
+5. Open the `.ino` file in the Arduino IDE.
+6. Connect your Arduino Uno to your computer, select the correct board and port, and upload the code.
 
 ## Requirements
 **Hardware (varies by project)**: Arduino Uno, LEDs, resistors, push button, jumper cables, breadboard, step motor, 8x8 matrix, HC-SR04 ultrasonic sensor, 4-digit 7-segment display, LDR, 	
