@@ -28,5 +28,4 @@ Sw-520d vibration sensor, lm35 temperature sensor, active/passive buzzer.
 If you need any help contact me on [e-mail](mailto:mehmetaligunalay@gmail.com).
 
 ## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/Mali03/Arduino-uno-projects/blob/main/LICENSE) file for details.
