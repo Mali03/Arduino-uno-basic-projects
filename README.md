@@ -2,7 +2,7 @@
 
 Welcome to my collection of Arduino Uno projects! This repository contains various projects created using the Arduino Uno, demonstrating different functionalities and ideas. Each project includes the code and example videos and photos to help you recreate and learn. And also I used the [tinkercad website](https://www.tinkercad.com/) and [Fritzing app](https://fritzing.org) to show cable notations.
 
-## Project Abstracts
+## 🛠️ Project Abstracts
 1. **Battery Level Checker**: It is necessary to check the battery level. This project helps you monitor it and displays the level on a 4-digit 7-segment display.
 2. **Car Park Sensor**: A basic car parking sensor with buzzer. The buzzer emits beeping as object's distance to the HC-SR04 ultrasonic sensor. (Also upgraded with leds in CarParkSensorWithLeds)
 3. **Vibration Sensor with Led**: The sensor senses the vibration and light up the led. Don't need to write a code give the sensor 5v.
@@ -17,7 +17,7 @@ Welcome to my collection of Arduino Uno projects! This repository contains vario
 12. **Blink Button**: A button-controlled circuit with two versions: one where the LED turns on when pressed and off when released, and another where the LED toggles with each press.
 13. **Blink**: A circuit where the LED blinks on and off every second.
 
-## Usage the Projects
+## 💻 Usage the Projects
 1. Clone this repository to your local machine:
 ```bash
 git clone https://github.com/Mali03/Arduino-uno-projects.git
@@ -28,14 +28,14 @@ git clone https://github.com/Mali03/Arduino-uno-projects.git
 5. Open the `.ino` file in the Arduino IDE.
 6. Connect your Arduino Uno to your computer, select the correct board and port, and upload the code.
 
-## Requirements
+## 🧰 Requirements
 **Hardware (varies by project)**: Arduino Uno, LEDs, resistors, push button, jumper cables, breadboard, step motor, 8x8 matrix, HC-SR04 ultrasonic sensor, 4-digit 7-segment display, LDR, 	
 Sw-520d vibration sensor, lm35 temperature sensor, active/passive buzzer.
 
 **Software**: Arduino IDE (2.3.4).
 
-## License
+## 📚 License
 This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/Mali03/Arduino-uno-projects/blob/main/LICENSE) file for details.
 
-## Need Help
+## ❓ Need Help
 If you need any help contact me on [LinkedIn](https://www.linkedin.com/in/mali03/).
