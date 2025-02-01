@@ -1,4 +1,4 @@
-# Arduino Uno Projects
+# 💡 Arduino Uno Projects
 
 Welcome to my collection of Arduino Uno projects! This repository contains various projects created using the Arduino Uno, demonstrating different functionalities and ideas. Each project includes the code and example videos and photos to help you recreate and learn. And also I used the [tinkercad website](https://www.tinkercad.com/) and [Fritzing app](https://fritzing.org) to show cable notations.
 
