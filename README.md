@@ -29,7 +29,7 @@ git clone https://github.com/Mali03/Arduino-uno-projects.git
 6. Connect your Arduino Uno to your computer, select the correct board and port, and upload the code.
 
 ## 🧰 Requirements
-**Hardware (varies by project)**: Arduino Uno, LEDs, resistors, push button, jumper cables, breadboard, step motor, 8x8 matrix, HC-SR04 ultrasonic sensor, 4-digit 7-segment display, LDR, 	
+**Hardware (varies by project)**: Arduino Uno, LEDs, resistors, push button, jumper cables, breadboard, step motor, 8x8 matrix, HC-SR04 ultrasonic sensor, 4-digit 7-segment display (5461BS-1), LDR, 	
 Sw-520d vibration sensor, lm35 temperature sensor, active/passive buzzer.
 
 **Software**: Arduino IDE (2.3.4).
