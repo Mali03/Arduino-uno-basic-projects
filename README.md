@@ -11,11 +11,12 @@ Welcome to my collection of Arduino Uno projects! This repository contains vario
 6. **Counter with 4-digit 7-segment Display**: A simple natural number counter that increments from 0 to 9999 and displays the value on a 4-digit 7-segment display.
 7. **Temperature Sensor**: Measures ambient temperature using a sensor. If the temperature reaches 30°C, a buzzer beeps, and an LED blinks as a warning.
 8. **Stepper Motor with Button**: A stepper motor controlled by a button, available in two variations: Single Press and Hold to Rotate
-9. **Active and Passive Buzzer**: It demonstrates differences between active buzzer and passive buzzer with examples.
-10. **Potantiometer**: A circuit that controls the brightness of an LED by adjusting the potentiometer.
-11. **Blink with LDR**: A circuit using an LDR that turns on an LED when it gets dark enough.
-12. **Blink Button**: A button-controlled circuit with two versions: one where the LED turns on when pressed and off when released, and another where the LED toggles with each press.
-13. **Blink**: A circuit where the LED blinks on and off every second.
+9. **Oled I2C Display**: An OLED I2C display is one of the most common displays that communicate via I2C. The example demonstrates displaying a rocket image in PNG format using a bitmap.
+10. **Active and Passive Buzzer**: It demonstrates differences between active buzzer and passive buzzer with examples.
+11. **Potantiometer**: A circuit that controls the brightness of an LED by adjusting the potentiometer.
+12. **Blink with LDR**: A circuit using an LDR that turns on an LED when it gets dark enough.
+13. **Blink Button**: A button-controlled circuit with two versions: one where the LED turns on when pressed and off when released, and another where the LED toggles with each press.
+14. **Blink**: A circuit where the LED blinks on and off every second.
 
 ## 💻 Usage the Projects
 1. Clone this repository to your local machine:
